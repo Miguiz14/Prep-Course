@@ -1,0 +1,31 @@
+Las variables
+Son como contenedores en los que puedes poner lo que quieras y esto valdra lo que pongas dentro
+tiene algunas limitantes pero de manera teorica funciona de esta forma
+
+strings
+es la forma en que el texto como lo conocemos nosotros en la realidad es usado en la programacion
+
+funciones
+las funciones son como las acciones que realizamos donde tomamos ciertos parametros como 
+ponernos la ropa primero pensamos en la accion de ponernos la ropa y luego buscamos la ropa
+y nos la ponemos eso seria una fucion en esencia la accion de realizar un acto en el momento
+en que lo necesitamos o lo pedimos
+
+return
+es lo que queremos de regreso a cambio de nuestras acciones ejemplo si planto mangos 
+quiero tener mangos como recompensa al haberlos plantados
+
+argumentos
+son los parametros que tomamos en cuenta para realizar una accion osea una funcion gracias a esto
+podemos realizarlo de forma adecuada de como la queremos
+
+declaraciones if
+las declaraciones if son condiciones que nos ponemos para lograr realizar una accion es una pregunta
+que nos hacemos para realizar algo determinado es decir para decir si esto pasa haremos esto si no 
+pues esto otro ejemplo si voy a comer mangos la pregunta si hay mangos como mangos si no planto los 
+mangos
+
+booleanos
+los booleanos son los falsos y verdaderos de nuestra realidad es lo que nos dice si algo es real o es cierto
+o no si digo que soy grande pero soy pequeño entonces es false porque false es falso, false es para
+desmentir y true para confirmar que es verdad.
