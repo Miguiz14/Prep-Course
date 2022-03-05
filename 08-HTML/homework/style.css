@@ -1,0 +1,17 @@
+h1 {
+    color: aqua;
+}
+img {
+    width: 400px;
+}
+#thirdDiv{
+ width: 500px;
+ height: 600px;  
+ background: snow; 
+ padding: 50px;
+ border-width: 30px;
+ border-style: dashed;
+}
+#spanId {
+    font-size: 18px;
+}
